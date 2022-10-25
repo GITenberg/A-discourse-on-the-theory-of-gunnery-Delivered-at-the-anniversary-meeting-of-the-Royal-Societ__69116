@@ -1,5 +1,8 @@
 _repo: A-discourse-on-the-theory-of-gunnery-Delivered-at-the-anniversary-meeting-of-the-Royal-Societ__69116
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69116-h/images/cover.jpg
 creator:
   author:
     agent_name: Pringle, J. (John)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51736
     wikipedia: https://en.wikipedia.org/wiki/John_Pringle_(geologist)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69116#A-discourse-on-the-theory-of-gunnery-Delivered-at-the-anniversary-meeting-of-the-Royal-Societ_
 gutenberg_issued: '2022-10-08'
 identifiers:
   gutenberg: '69116'
